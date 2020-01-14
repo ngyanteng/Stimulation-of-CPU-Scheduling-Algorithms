@@ -1,0 +1,5 @@
+Ng Yan Teng
+1. FCFS.java
+2. SRTN.java
+
+For source code, naviagate OSAsignment>src>com>company
